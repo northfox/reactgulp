@@ -1,0 +1,19 @@
+# common
+.*~
+*~
+*.swp
+.DS_Store
+.idea
+.secret
+.sass-cache
+
+# reactgulp
+README.html
+.idea
+.sass-cache
+node_modules
+bower_components
+lib
+public/
+coverage/
+dist/
